@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>pyqtgraph SVG export</title>
+<desc>Generated with Qt and pyqtgraph</desc>
+<defs>
+</defs>
+<g id="GraphicsScene_1">
+    <g fill="none" fill-rule="evenodd" id="PlotItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+        <g fill="none" fill-rule="evenodd" id="AxisItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                <polyline fill="none" points="50.0,217.0 1205.0,217.0" vector-effect="non-scaling-stroke"/>
+            </g>
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.498039" stroke-width="1">
+                <polyline fill="none" points="944.803,1.0 944.803,217.0" vector-effect="non-scaling-stroke"/>
+            </g>
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.247059" stroke-width="1">
+                <polyline fill="none" points="452.415,1.0 452.415,217.0" vector-effect="non-scaling-stroke"/>
+            </g>
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.164706" stroke-width="1">
+                <polyline fill="none" points="58.50482,1.0 58.50482,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="156.982,1.0 156.982,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="255.46,1.0 255.46,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="353.937,1.0 353.937,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="550.893,1.0 550.893,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="649.37,1.0 649.37,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="747.848,1.0 747.848,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="846.325,1.0 846.325,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="1043.28,1.0 1043.28,217.0" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="1141.76,1.0 1141.76,217.0" vector-effect="non-scaling-stroke"/>
+            </g>
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,50.5,217)">
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="887.297" xml:space="preserve" y="13.3906">20</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="394.906" xml:space="preserve" y="13.3906">10</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="4.5" xml:space="preserve" y="13.3906">2</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="102.969" xml:space="preserve" y="13.3906">4</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="201.453" xml:space="preserve" y="13.3906">6</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="299.922" xml:space="preserve" y="13.3906">8</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="493.391" xml:space="preserve" y="13.3906">12</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="591.859" xml:space="preserve" y="13.3906">14</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="690.344" xml:space="preserve" y="13.3906">16</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="788.813" xml:space="preserve" y="13.3906">18</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="985.766" xml:space="preserve" y="13.3906">22</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="1084.25" xml:space="preserve" y="13.3906">24</text>
+            </g>
+        </g>
+        <g fill="none" fill-rule="evenodd" id="AxisItem_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                <polyline fill="none" points="50.0,1.0 50.0,217.0" vector-effect="non-scaling-stroke"/>
+            </g>
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.247059" stroke-width="1">
+                <polyline fill="none" points="1205.5,124.977 50.5,124.977" vector-effect="non-scaling-stroke"/>
+            </g>
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="0.164706" stroke-width="1">
+                <polyline fill="none" points="1205.5,198.841 50.5,198.841" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="1205.5,161.909 50.5,161.909" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="1205.5,88.0453 50.5,88.0453" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="1205.5,51.1133 50.5,51.1133" vector-effect="non-scaling-stroke"/>
+                <polyline fill="none" points="1205.5,14.1813 50.5,14.1813" vector-effect="non-scaling-stroke"/>
+            </g>
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#969696" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1.5,1)">
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="30" xml:space="preserve" y="128.969">70</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="30" xml:space="preserve" y="202.828">66</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="30" xml:space="preserve" y="165.906">68</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="30" xml:space="preserve" y="92.0313">72</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="30" xml:space="preserve" y="55.1094">74</text>
+                <text fill="#969696" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="30" xml:space="preserve" y="18.1719">76</text>
+            </g>
+        </g>
+        <g fill="none" fill-rule="evenodd" id="ViewBox_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                <path d="M50.0,1.0 L1205.0,1.0 L1205.0,217.0 L50.0,217.0 L50.0,1.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+            </g>
+            <clipPath id="ViewBox_1_clip">
+                <path d="M50.0,1.0 L1205.0,1.0 L1205.0,217.0 L50.0,217.0 L50.0,1.0 " fill-rule="evenodd" stroke-width="1.0" vector-effect="none"/>
+            </clipPath>
+            <g clip-path="url(#ViewBox_1_clip)">
+                <g fill="none" fill-rule="evenodd" id="ChildGroup_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                    <clipPath id="ChildGroup_1_clip">
+                        <path d="M50.0,1.0 L1205.0,1.0 L1205.0,217.0 L50.0,217.0 L50.0,1.0 " fill-rule="evenodd" stroke-width="1.0" vector-effect="none"/>
+                    </clipPath>
+                    <g clip-path="url(#ChildGroup_1_clip)">
+                        <g fill="none" fill-rule="evenodd" id="InfiniteLine_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#ff0000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1">
+                                <polyline fill="none" points="1023.36,217.00161779999985 1023.36,1.002969199999825" vector-effect="non-scaling-stroke"/>
+                            </g>
+                        </g>
+                        <g fill="none" fill-rule="evenodd" id="InfiniteLine_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                            <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#ff0000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" stroke-opacity="1" stroke-width="1">
+                                <polyline fill="none" points="50.00014828399999,206.967 1205.00305048,206.967" vector-effect="non-scaling-stroke"/>
+                            </g>
+                        </g>
+                        <g fill="none" fill-rule="evenodd" id="TextItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                            <g fill="#ffffff" fill-opacity="1" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                                <path d="M1023.36,193.0 L1091.3600000000001,193.0 L1091.3600000000001,217.0 L1023.36,217.0 L1023.36,193.0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+                            </g>
+                            <g fill="none" fill-rule="evenodd" id="QGraphicsTextItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                                
+
+
+                                
+
+
+                                <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,1023.36,193)">
+                                    <text fill="#000000" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="17">X : 21.606</text>
+                                </g>
+                                
+
+
+                                
+
+                            </g>
+                        </g>
+                        <g fill="none" fill-rule="evenodd" id="TextItem_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                            <g fill="#ffffff" fill-opacity="1" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1">
+                                <path d="M50.0,206.967 L110.0,206.967 L110.0,230.967 L50.0,230.967 L50.0,206.967 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+                            </g>
+                            <g fill="none" fill-rule="evenodd" id="QGraphicsTextItem_2" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                                
+
+
+                                
+
+
+                                <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#000000" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="1" transform="matrix(1,0,0,1,50,206.967)">
+                                    <text fill="#000000" fill-opacity="1" font-family="&quot;MS Shell Dlg 2&quot;, sans-serif" font-size="13" font-style="normal" font-weight="400" stroke="none" x="4" xml:space="preserve" y="17">Y : 65.56</text>
+                                </g>
+                                
+
+
+                                
+
+                            </g>
+                        </g>
+                        <g id="PlotDataItem_1">
+                            <g fill="none" fill-rule="evenodd" id="PlotCurveItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                                <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="#1924ff" stroke-linecap="square" stroke-linejoin="bevel" stroke-opacity="1" stroke-width="2">
+                                    <path d="M-40.4727,118.88621999999987 L28.506427308,128.48853999999983 L30.552299448,172.4376199999997 L32.13237253999999,124.61068 L37.62249874,134.39765999999986 L40.698446575999995,73.09053999999969 L62.338899176,120.91747999999984 L83.63615734,170.40635999999972 L282.343273844,132.7357199999999 L284.2448763,126.45727999999986 L285.752568356,125.3493199999998 L289.73943399199993,124.97999999999979 L291.928098652,126.82659999999964 L294.17732703599995,127.38057999999978 L297.3803109759999,125.71864000000005 L317.787331636,174.6535399999998 L492.58162491999997,74.93714 L498.27363019999996,23.60165999999981 L520.76591404,131.62775999999985 L523.96151216,174.09955999999988 L526.64010288,130.88911999999982 L527.65934604,134.76697999999988 L539.806558,64.22685999999976 L543.9770843599999,131.99707999999964 L905.1387584799999,51.11599999999976 L979.9817344799999,142.70735999999965 L981.95128648,144.40623200000005 L986.6240485999999,148.4318199999998 L991.48391816,143.0766799999999 L1006.44758948,206.96903999999972 L1021.83471448,206.96903999999972 L1023.3660411599999,206.96903999999972 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g fill="none" fill-rule="evenodd" id="QGraphicsRectItem_1" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+                    <g fill="none" font-family="MS Shell Dlg 2" font-size="13" font-style="normal" font-weight="400" stroke="none" transform="matrix(1,0,0,1,50,1)">
+                        <rect height="216" vector-effect="non-scaling-stroke" width="1155" x="0" y="0"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</g>
+
+</svg>

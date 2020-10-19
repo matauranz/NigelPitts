@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>Smoothed</name>
+<Style id="style1">
+	<LineStyle>
+		<color>f2d4a9f8</color>
+		<width>5</width>
+	</LineStyle>
+</Style>
+<Placemark>
+<name>30.0</name>
+<description><![CDATA[<p>index: 0
+<br/>field_4: 30.0
+<br/>label: 30.00</p>]]></description>
+<ExtendedData>
+	<Data name="index"><displayName>index</displayName><value><![CDATA[0]]></value></Data>
+	<Data name="field_4"><displayName>field_4</displayName><value><![CDATA[30.0]]></value></Data>
+	<Data name="label"><displayName>label</displayName><value><![CDATA[30.00]]></value></Data>
+</ExtendedData>

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="LINZ_PROPERY_LINES" id="LINZ_PROPERY_LINES">
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="title_no" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="land_distr" type="string"></SimpleField>
+	<SimpleField name="issue_date" type="string"></SimpleField>
+	<SimpleField name="guarantee_" type="string"></SimpleField>
+	<SimpleField name="estate_des" type="string"></SimpleField>
+	<SimpleField name="number_own" type="string"></SimpleField>
+	<SimpleField name="spatial_ex" type="string"></SimpleField>
+</Schema>
+<Folder><name>LINZ_PROPERY_LINES</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">110138</SimpleData>
+		<SimpleData name="title_no">OT220/97</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1927/02/15</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Allotment 16 Deposited Plan 2836, 1,770 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.594097973217,-45.7442756933852 170.59399843329,-45.7442449833074 170.594097973217,-45.7440868008834 170.594097973217,-45.7442756933852</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">63028</SimpleData>
+		<SimpleData name="title_no">OT1D/920</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1965/05/12</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Part Section 1 of 5 Block I North Harbour &amp; Blueskin Survey District, 11,167 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59197868329,-45.7434121333074 170.59233263329,-45.7433594333074 170.59268658329,-45.7433067333074 170.59303323329,-45.7432551000074 170.59322103329,-45.7433130000074 170.59316638329,-45.7436081000074 170.59317916669,-45.7437372167074 170.59333476669,-45.7437293500074 170.59317078329,-45.7439896000074 170.59151234999,-45.7443847833074 170.59143664999,-45.7442716833074 170.59138211669,-45.7441898667074 170.59117324999,-45.7438695000074 170.59167896669,-45.7437943333074 170.59218466669,-45.7437191500074 170.59197868329,-45.7434121333074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">141249</SimpleData>
+		<SimpleData name="title_no">OT3C/236</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1968/08/05</SimpleData>
+		<SimpleData name="guarantee_">Limited as to Parcels</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Part Section 1 of 5 Block I North Harbour &amp; Blueskin Survey District, 191,710 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.591697981025,-45.7446611924625 170.59151234999,-45.7443847833074 170.59317078329,-45.7439896000074 170.59333476669,-45.7437293500074 170.59353569999,-45.7434100000074 170.59377171669,-45.7434828000074 170.59340691669,-45.7440625167074 170.59370266669,-45.7441537500074 170.59399843329,-45.7442449833074 170.594097973217,-45.7442756933852 170.594097973217,-45.7446611924625 170.591697981025,-45.7446611924625</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">70481</SimpleData>
+		<SimpleData name="title_no">OT186/242</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1919/05/30</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Allotment 10 Deposited Plan 2836, 4,060 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59111286669,-45.7429506833074 170.59161848329,-45.7428754333074 170.59197868329,-45.7434121333074 170.59218466669,-45.7437191500074 170.59167896669,-45.7437943333074 170.59111286669,-45.7429506833074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">33012</SimpleData>
+		<SimpleData name="title_no">OT295/239</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1939/03/01</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 3 Deposited Plan 2836, 1,685 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.594097973217,-45.7433019736934 170.59405388329,-45.7433720500074 170.59375811669,-45.7432808167074 170.594097973217,-45.7427407182802 170.594097973217,-45.7433019736934</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">13462</SimpleData>
+		<SimpleData name="title_no">OT401/55</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1958/04/28</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 3 Deposited Plan 8696, 680 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59317446669,-45.7430129333074 170.59367161669,-45.7428746667074 170.59348778329,-45.7431973167074 170.59323481669,-45.7431192833074 170.59317446669,-45.7430129333074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">141964</SimpleData>
+		<SimpleData name="title_no">OT6C/355</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1976/02/25</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Section 86 Block I North Harbour &amp; Blueskin Survey District and Lot 1 Deposited Plan 5365, 1,053 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59406923329,-45.7425529000074 170.59399468329,-45.7425497167074 170.594097973217,-45.7425338605739 170.594097973217,-45.7425580686969 170.59406923329,-45.7425529000074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">259830</SimpleData>
+		<SimpleData name="title_no">OT24/31</SimpleData>
+		<SimpleData name="status">PRTC</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1875/12/31</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Part Section 1 of 4, 1 of 5 Block I North Harbour &amp; Blueskin Survey District, 20,968 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.594097973217,-45.7427264676725 170.59399813329,-45.7426956833074 170.59377646669,-45.7426906500074 170.59298133329,-45.7426725167074 170.59399468329,-45.7425497167074 170.59406923329,-45.7425529000074 170.594097973217,-45.7425580686969 170.594097973217,-45.7427264676725</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>170.592814262933,-45.7425123259949 170.59261183329,-45.7425420667074 170.590772034036,-45.7428164587686 170.590772034036,-45.7425123259949 170.592814262933,-45.7425123259949</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">4236371</SimpleData>
+		<SimpleData name="title_no">154263</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">2004/12/22</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 4 Deposited Plan 337560, 3,387 m2
+Fee Simple, 1/4, Lot 1 Deposited Plan 337560, 1,019 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">T</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.590772034036,-45.7443005526834 170.59082611669,-45.7443842167074 170.590772034036,-45.744402820863 170.590772034036,-45.7443005526834</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">380461</SimpleData>
+		<SimpleData name="title_no">OT383/169</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1955/11/15</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 12 Deposited Plan 2836, 1,807 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59268658329,-45.7433067333074 170.59233263329,-45.7433594333074 170.59197243329,-45.7428227333074 170.59232636669,-45.7427700333074 170.59268658329,-45.7433067333074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">79945</SimpleData>
+		<SimpleData name="title_no">OT3C/1448</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1969/03/11</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 1 Deposited Plan 8696, 741 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59377184999,-45.7426987500074 170.59310191669,-45.7428850833074 170.59298133329,-45.7426725167074 170.59377646669,-45.7426906500074 170.59377184999,-45.7426987500074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">246115</SimpleData>
+		<SimpleData name="title_no">OT165/139</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1912/05/14</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Allotment 39 Block I Deposited Plan 2243, 1,012 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.590772034036,-45.7432760058533 170.59085714999,-45.7434037000074 170.59089231669,-45.7434563333074 170.590772034036,-45.7434694348245 170.590772034036,-45.7432760058533</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">65260</SimpleData>
+		<SimpleData name="title_no">OT3D/1412</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1969/11/21</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 1 Deposited Plan 9364, 1,022 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.594097973217,-45.7433856517745 170.59405388329,-45.7433720500074 170.594097973217,-45.7433019736934 170.594097973217,-45.7433856517745</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">140704</SimpleData>
+		<SimpleData name="title_no">OT385/93</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1956/03/06</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 15 Deposited Plan 2836, 1,770 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59399843329,-45.7442449833074 170.59370266669,-45.7441537500074 170.59406744999,-45.7435740333074 170.594097973217,-45.7435834480979 170.594097973217,-45.7440868008834 170.59399843329,-45.7442449833074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">72855</SimpleData>
+		<SimpleData name="title_no">OT295/109</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1938/12/22</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 14 Deposited Plan 2836, 1,770 m2</SimpleData>
+		<SimpleData name="number_own">3</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59340691669,-45.7440625167074 170.59377171669,-45.7434828000074 170.59406744999,-45.7435740333074 170.59370266669,-45.7441537500074 170.59340691669,-45.7440625167074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">61593</SimpleData>
+		<SimpleData name="title_no">OT16D/697</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1995/08/25</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 2 Deposited Plan 24885, 2,730 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59102109999,-45.7430254000074 170.59096064999,-45.7429733167074 170.59111286669,-45.7429506833074 170.59167896669,-45.7437943333074 170.59117324999,-45.7438695000074 170.59105031669,-45.7436930333074 170.59089231669,-45.7434563333074 170.59085714999,-45.7434037000074 170.59106366669,-45.7433284167074 170.59123771669,-45.7432636667074 170.59110404999,-45.7430644833074 170.59102109999,-45.7430254000074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">4664307</SimpleData>
+		<SimpleData name="title_no">593513</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">2012/12/06</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 2 Deposited Plan 457543, 265,102 m2
+Fee Simple, 1/4, Lot 1 Deposited Plan 337560, 1,019 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">T</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.590772034036,-45.744402820863 170.59082611669,-45.7443842167074 170.59087924999,-45.7444664833074 170.59143664999,-45.7442716833074 170.59151234999,-45.7443847833074 170.591697981025,-45.7446611924625 170.590772034036,-45.7446611924625 170.590772034036,-45.744402820863</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">4236369</SimpleData>
+		<SimpleData name="title_no">154261</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">2004/12/22</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 2 Deposited Plan 337560, 2,260 m2
+Fee Simple, 1/4, Lot 1 Deposited Plan 337560, 1,019 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">T</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.590772034036,-45.7434694348245 170.59089231669,-45.7434563333074 170.59105031669,-45.7436930333074 170.590772034036,-45.7437841718804 170.590772034036,-45.7434694348245</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">4664306</SimpleData>
+		<SimpleData name="title_no">593512</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">2012/12/06</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 1 Deposited Plan 457543 and Lot 3 Deposited Plan 337560, 3,622 m2
+Fee Simple, 1/4, Lot 1 Deposited Plan 337560, 1,019 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">T</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.590772034036,-45.7437841718804 170.59105031669,-45.7436930333074 170.59117324999,-45.7438695000074 170.59138211669,-45.7441898667074 170.59143664999,-45.7442716833074 170.59087924999,-45.7444664833074 170.59082611669,-45.7443842167074 170.590772034036,-45.7443005526834 170.590772034036,-45.7437841718804</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">219008</SimpleData>
+		<SimpleData name="title_no">OT385/6</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1956/02/22</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 11 Deposited Plan 2836, 1,807 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59233263329,-45.7433594333074 170.59197868329,-45.7434121333074 170.59161848329,-45.7428754333074 170.59197243329,-45.7428227333074 170.59233263329,-45.7433594333074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">79946</SimpleData>
+		<SimpleData name="title_no">OT3C/1449</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1969/03/11</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 2 Deposited Plan 8696, 747 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59317446669,-45.7430129333074 170.59310191669,-45.7428850833074 170.59377184999,-45.7426987500074 170.59367161669,-45.7428746667074 170.59317446669,-45.7430129333074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">61591</SimpleData>
+		<SimpleData name="title_no">OT16D/696</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1995/08/25</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 1 Deposited Plan 24885, 1,328 m2</SimpleData>
+		<SimpleData name="number_own">3</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59102109999,-45.7430254000074 170.59110404999,-45.7430644833074 170.59123771669,-45.7432636667074 170.59106366669,-45.7433284167074 170.59085714999,-45.7434037000074 170.590772034036,-45.7432760058533 170.590772034036,-45.743006789401 170.59096064999,-45.7429733167074 170.59102109999,-45.7430254000074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">195151</SimpleData>
+		<SimpleData name="title_no">OT339/104</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1949/07/27</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Part Lot 2 Deposited Plan 2836, 1,569 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.594097973217,-45.7427407182802 170.59375811669,-45.7432808167074 170.59348778329,-45.7431973167074 170.59367161669,-45.7428746667074 170.59377184999,-45.7426987500074 170.59377646669,-45.7426906500074 170.59399813329,-45.7426956833074 170.594097973217,-45.7427264676725 170.594097973217,-45.7427407182802</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">140708</SimpleData>
+		<SimpleData name="title_no">OT385/97</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1956/03/06</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 13 Deposited Plan 2836, 1,902 m2</SimpleData>
+		<SimpleData name="number_own">2</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59268658329,-45.7433067333074 170.59232636669,-45.7427700333074 170.59272479999,-45.7427107000074 170.59303323329,-45.7432551000074 170.59268658329,-45.7433067333074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#LINZ_PROPERY_LINES">
+		<SimpleData name="id">37851</SimpleData>
+		<SimpleData name="title_no">OT1D/921</SimpleData>
+		<SimpleData name="status">LIVE</SimpleData>
+		<SimpleData name="type">Freehold</SimpleData>
+		<SimpleData name="land_distr">Otago</SimpleData>
+		<SimpleData name="issue_date">1965/05/12</SimpleData>
+		<SimpleData name="guarantee_">Guarantee</SimpleData>
+		<SimpleData name="estate_des">Fee Simple, 1/1, Lot 1 Deposited Plan 10971, 850 m2</SimpleData>
+		<SimpleData name="number_own">1</SimpleData>
+		<SimpleData name="spatial_ex">F</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>170.59333476669,-45.7437293500074 170.59317916669,-45.7437372167074 170.59316638329,-45.7436081000074 170.59322103329,-45.7433130000074 170.59353569999,-45.7434100000074 170.59333476669,-45.7437293500074</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
